@@ -27,6 +27,13 @@ javac helloworld.java
 ```
 Replace `{C}` / `{CPP}` by your C / C++ compiler (gcc, clang, cl...) and `{EXT}` by executable extension (`exe` for Windows, `out` for Linux and `app` for MacOS).
 
+### **Example:** on Linux with gcc / g++
+```
+gcc helloworld.c -o helloworld-c.out
+g++ helloworld.cpp -o helloworld-cpp.out
+javac helloworld.java
+```
+
 ## Running
 
 Here's a list of how to execute the helloworld programs:
