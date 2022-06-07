@@ -15,6 +15,7 @@ The following languages are inclued:
  - MarkDown
  - Python
  - Shell (Bash)
+ - Batch (Windows only)
 
 ## Building
 
@@ -36,7 +37,8 @@ Here's a list of how to execute the helloworld programs:
  - JavaScript : type `node helloworld.js` or just `helloworld.js` (need Node.js)
  - MarkDown : open it in a MarkDown editor such as [StackEdit](https://stackedit.io/) or [Dillinger](https://dillinger.io/) and convert it to HTML
  - Python : type `python helloworld.py` or `helloworld.py`
- - Shell : run `helloworld.sh`.
+ - Shell : run `helloworld.sh`
+ - Batch : double-click on `helloworld.bat`.
 
 ## License
 
