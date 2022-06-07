@@ -34,7 +34,7 @@ Here's a list of how to execute the helloworld programs:
  - HTML : open it in your internet browser
  - Java : type `java HelloWorld` in a terminal
  - JavaScript : type `node helloworld.js` or just `helloworld.js` (need Node.js)
- - MarkDown : open it in a MarkDown editor such as []() or []() and convert it to HTML
+ - MarkDown : open it in a MarkDown editor such as [StackEdit](https://stackedit.io/) or [Dillinger](https://dillinger.io/) and convert it to HTML
  - Python : type `python helloworld.py` or `helloworld.py`
  - Shell : run `helloworld.sh`.
 
