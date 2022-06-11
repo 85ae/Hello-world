@@ -29,8 +29,8 @@ Replace `{C}` / `{CPP}` by your C / C++ compiler (gcc, clang, cl...) and `{EXT}`
 
 ### **Example:** on Linux with gcc / g++
 ```
-gcc helloworld.c -o helloworld-c.out
-g++ helloworld.cpp -o helloworld-cpp.out
+gcc -o helloworld-c.out helloworld.c
+g++ -o helloworld-cpp.out helloworld.cpp
 javac helloworld.java
 ```
 
