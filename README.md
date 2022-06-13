@@ -21,8 +21,8 @@ The following languages are inclued:
 
 To build, run the following commands:
 ```
-{C} helloworld.c -o helloworld-c.{EXT}
-{CPP} helloworld.cpp -o helloworld-cpp.{EXT}
+{C} -o helloworld-c.{EXT} helloworld.c
+{CPP} -o helloworld-cpp.{EXT} helloworld.cpp
 javac helloworld.java
 ```
 Replace `{C}` / `{CPP}` by your C / C++ compiler (gcc, clang, cl...) and `{EXT}` by executable extension (`exe` for Windows, `out` for Linux and `app` for MacOS).
