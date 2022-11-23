@@ -54,4 +54,4 @@ Here's a list of how to execute the helloworld programs:
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0.
+This project is licensed under the [GNU <abbr title="General Public License">GPL</abbr> v3.0](LICENSE).
