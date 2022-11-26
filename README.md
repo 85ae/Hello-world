@@ -45,9 +45,9 @@ Here's a list of how to execute the helloworld programs:
  - C++: run `./helloworld-cpp.{EXT}` in a terminal
  - (X)HTML: open it in your internet browser
  - Java: type `java HelloWorld` in a terminal
- - JavaScript: type `node helloworld.js` or just `helloworld.js` in Linux (needs Node.js)
+ - JavaScript: type `node helloworld.js` (needs Node.js)
  - MarkDown: open it in a MarkDown editor such as [StackEdit](https://stackedit.io/) or [Dillinger](https://dillinger.io/) and convert it to HTML
- - Python: type `python helloworld.py` or `helloworld.py`
+ - Python: type `python helloworld.py`
  - Shell: run `helloworld.sh`
  - Batch: double-click on `helloworld.bat`
  - PHP: open `helloworld-php.html` in a browser
